@@ -17,4 +17,4 @@ A simple yet mesmerizing animated 3D cube. The cube continuously rotates along t
 ---
 
 ## 🚀 Demo
-Check out the live demo: [3D Rotating Cube](#)
+Check out the live demo: [3D Rotating Cube](https://antoshkaff.github.io/3dcube/)
