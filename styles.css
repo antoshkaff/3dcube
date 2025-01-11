@@ -28,7 +28,7 @@ body {
     width: inherit;
     height: inherit;
     transform-style: preserve-3d;
-    animation: rotateCube 10s infinite linear;
+    animation: rotateCube 20s infinite linear;
 }
 
 .side {
@@ -46,7 +46,7 @@ body {
 }
 
 .back {
-    background-color: #82FF48;
+    background-color: #a3e00a;
     transform: rotateY(180deg) translateZ(calc(var(--cubeSize) / 2));
 }
 
@@ -72,7 +72,7 @@ body {
 
 @keyframes rotateCube {
     0% {
-        transform: rotateX(0deg) rotateY(0deg);
+        transform: rotateX(-360deg) rotateY(0deg);
 
     }
 
